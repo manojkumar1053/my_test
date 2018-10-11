@@ -97,7 +97,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="353" />
-          <entry key="html" value="97" />
+          <entry key="html" value="98" />
           <entry key="java" value="177" />
           <entry key="properties" value="21" />
         </counts>
@@ -105,7 +105,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="353" />
-          <entry key="HTML" value="97" />
+          <entry key="HTML" value="98" />
           <entry key="JAVA" value="177" />
           <entry key="Properties" value="21" />
         </counts>
@@ -163,8 +163,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="7" selection-start-line="12" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="171">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -714,12 +714,12 @@
       <workItem from="1539218810640" duration="1214000" />
       <workItem from="1539220221747" duration="5899000" />
       <workItem from="1539298166383" duration="2416000" />
-      <workItem from="1539300771684" duration="1376000" />
+      <workItem from="1539300771684" duration="1525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16663000" />
+    <option name="totallyTimeSpent" value="16812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-14" y="-18" width="1297" height="737" extended-state="0" />
@@ -810,8 +810,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="7" selection-start-line="12" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="171">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
         </state>
       </provider>
     </entry>
