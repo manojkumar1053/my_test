@@ -1,17 +1,18 @@
 <!DOCTYPE html>
-<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<html lang="en" xmlns:th=http://www.thymeleaf.org>
 <head>
     <meta charset="UTF-8"/>
 
 
-    <link rel="stylesheet" th:href="@{/app.css}"/>
+    <link rel="stylesheet" th:href="@{/app.css}" />
 
     <title>giflib | Home</title>
 </head>
 <body>
     <h1>Home</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab amet architecto deserunt doloribus ducimus esse id illum magnam modi necessitatibus, nemo neque nisi odio officia optio rem suscipit tempora.</p>
-    <img src="http://place-hold.it/300x400/5fcf90/ffffff" alt="logo"/>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab amet architecto deserunt doloribus ducimus esse id
+    illum magnam modi necessitatibus, nemo neque nisi odio officia optio rem suscipit tempora.</p>
+    <img th:src="@{/gifs/compiler-bot.gif}" alt="logo"/>
 
 </body>
 </html>
